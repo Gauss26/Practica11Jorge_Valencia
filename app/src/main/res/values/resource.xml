@@ -1,0 +1,8 @@
+ <?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="rol">
+        <item>Admin</item>
+        <item>Helpers</item>
+        <item>User</item>
+    </array>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica11_Ejercicio2_Jorge_Valencia</string>
+    <string name="reset">Restablecer</string>
+    <string name="a_adir">Añadir</string>
+    <string name="details">Detalles</string>
+    <string name="modify">Modificar</string>
+    <string name="delete">Eliminar</string>
+    <string name="add_user">Add User</string>
+    <string name="show">Show</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
